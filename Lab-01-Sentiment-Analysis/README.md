@@ -1,0 +1,21 @@
+# Lab 01 - Sentiment Analysis
+
+## Objective
+Perform sentiment analysis using traditional machine learning techniques.
+
+## Tasks Completed
+- Downloaded and loaded the dataset
+- Performed text preprocessing
+- Applied TF-IDF vectorization
+- Trained a machine learning model
+- Evaluated performance using Accuracy, Precision, Recall and F1-score
+- Tested the model using new sentences
+
+## Tools Used
+- Python
+- Pandas
+- NLTK
+- Scikit-Learn
+
+## Outcome
+Successfully built and evaluated a sentiment analysis model for classifying positive and negative text reviews.
